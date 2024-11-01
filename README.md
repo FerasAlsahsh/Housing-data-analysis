@@ -1,6 +1,5 @@
 # Housing Data Analysis Project
 
-![Distribution of House Prices](house_price_distribution.png](Housing.png)
 
 
 ## Project Overview
