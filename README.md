@@ -1,6 +1,6 @@
 # Housing Data Analysis Project
 
-![Distribution of House Prices]([house_price_distribution.png](https://github.com/FerasAlsahsh/Housing-data-analysis/blob/main/Housing.png))
+![Distribution of House Prices](house_price_distribution.png](https://github.com/FerasAlsahsh/Housing-data-analysis/blob/main/Housing.png)
 
 
 ## Project Overview
