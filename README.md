@@ -59,4 +59,4 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/housing-data-analysis.git
+   git clone https://github.com/FerasAlshash/Housing-data-analysis.git
